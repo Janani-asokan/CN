@@ -1,3 +1,4 @@
+
 TO trouble shoot the network issues we use IP CONFIG AND IF CONFIG.
 
 The `ifconfig` and `ipconfig` commands are both used to display and configure network interfaces, but they belong to different operating systems and have distinct functionalities. Here’s a breakdown of their differences:
